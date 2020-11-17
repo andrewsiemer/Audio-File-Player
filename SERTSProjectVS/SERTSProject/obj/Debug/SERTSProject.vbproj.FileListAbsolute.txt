@@ -20,3 +20,14 @@ C:\Users\kylat\source\repos\SERTSProject\SERTSProject\obj\Debug\SERTSProject.vbp
 C:\Users\kylat\source\repos\SERTSProject\SERTSProject\obj\Debug\SERTSProject.exe
 C:\Users\kylat\source\repos\SERTSProject\SERTSProject\obj\Debug\SERTSProject.xml
 C:\Users\kylat\source\repos\SERTSProject\SERTSProject\obj\Debug\SERTSProject.pdb
+C:\Users\Andrew Siemer\Desktop\SERTSProject\SERTSProject\bin\Debug\SERTSProject.exe
+C:\Users\Andrew Siemer\Desktop\SERTSProject\SERTSProject\bin\Debug\SERTSProject.pdb
+C:\Users\Andrew Siemer\Desktop\SERTSProject\SERTSProject\bin\Debug\SERTSProject.xml
+C:\Users\Andrew Siemer\Desktop\SERTSProject\SERTSProject\obj\Debug\SERTSProject.Form1.resources
+C:\Users\Andrew Siemer\Desktop\SERTSProject\SERTSProject\obj\Debug\SERTSProject.Resources.resources
+C:\Users\Andrew Siemer\Desktop\SERTSProject\SERTSProject\obj\Debug\SERTSProject.vbproj.GenerateResource.cache
+C:\Users\Andrew Siemer\Desktop\SERTSProject\SERTSProject\obj\Debug\SERTSProject.vbproj.CoreCompileInputs.cache
+C:\Users\Andrew Siemer\Desktop\SERTSProject\SERTSProject\obj\Debug\SERTSProject.exe
+C:\Users\Andrew Siemer\Desktop\SERTSProject\SERTSProject\obj\Debug\SERTSProject.xml
+C:\Users\Andrew Siemer\Desktop\SERTSProject\SERTSProject\obj\Debug\SERTSProject.pdb
+C:\Users\Andrew Siemer\Desktop\SERTSProject\SERTSProject\obj\Debug\SERTSProject.vbprojAssemblyReference.cache
